@@ -1,0 +1,12 @@
+{
+    "id": "1",
+    "eventType": "advertisementCreated",
+    "subject": "neighborlywebapp/create/advertisement",
+    "eventTime": "2020-07-15T21:08:20+00:00",
+    "data": {
+        "name": "Carl"
+    },
+    "dataVersion": "1.0",
+    "metadataVersion": "1",
+    "topic": "/subscriptions/17f48f04-39d8-4078-9f34-f01413f4a224/resourceGroups/neighborly_rg/providers/Microsoft.EventGrid/topics/cebuckNeighborlyEventGridTopic"
+}
