@@ -1,13 +1,10 @@
 {
   "scriptFile": "__init__.py",
-  "disabled": false,
   "bindings": [
     {
       "type": "eventGridTrigger",
       "name": "event",
-      "direction": "in",
-        "eventHubName": "cebuckeventhub",
-        "connection": "https://cebuckneighborlyeventgridtopic.eastus-1.eventgrid.azure.net/api/events"
+      "direction": "in"
     }
   ]
 }
